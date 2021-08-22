@@ -1,0 +1,54 @@
+body
+{
+background: "background1.jpg";
+background-size: cover;
+}
+
+.heading{
+    font-family: 'Rampart One', cursive;
+    width: 100%;
+    margin:0;
+    font-size: 32px;
+    letter-spacing: 1px;
+}
+
+.modal_button{
+    font-size: 32px;
+    letter-spacing: 1px;
+    float: right;
+}
+
+.modal-body{
+    font-size: 20px;
+}
+
+.btn_div{
+    font-size: 23px !important;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.credit_div{
+    width: 100%;
+    bottom: 0;
+    position: sticky;
+    background-color: gray;
+    color: ghostwhite;
+    font-size: 23px;
+    font-family: 'Klee One', cursive;
+    line-height: 3;
+}
+
+canvas{
+    border: 3px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    margin-left: 750px;
+}
+
+video{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    background-color: black;
+    border: 3px solid white;
+}
